@@ -32,6 +32,6 @@ Directory structure for plugins
 
 - [present.nvim](./plugins/present.nvim)
 
-## Special thanks to TJ and other who helped and inspired me in learning Lua and Neovim.
+## Special thanks to TJ and others who helped and inspired me to learn Lua and Neovim.
 
 - [TJ DeVries](https://github.com/tjdevries)
