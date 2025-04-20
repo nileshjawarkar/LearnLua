@@ -25,7 +25,7 @@ Directory structure for plugins
         |
         +-- lua                        --> plugin implementation will be here
         |    |
-        |    +-- pluginName.lua        --> plugin implementation. This lua file can be have any name but
+        |    +-- pluginName.lua        --> plugin implementation. This lua file can be of any name but
         +-- plugin                     --> its good to have same name as plugin name.
              |
              +-- loader.lua            --> Optional file. Name can be anything.
