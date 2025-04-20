@@ -12,6 +12,8 @@
 
 ## Neovim lua API's
 
+- [Neovim lua guide](https://neovim.io/doc/user/lua-guide.html#lua-guide)
+
 This section explores neovim lua API's
 .. In work ..
 
